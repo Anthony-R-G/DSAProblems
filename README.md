@@ -4,6 +4,8 @@
 
 [Add Two Numbers (Linked Lists)](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/AddTwoNumbers(LinkedLists).swift)
 
+[Best Time to Buy and Sell Stock](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/BestTimeToBuyAndSellStock.swift)
+
 [Check If Trees Are Leaf-Similar](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/CheckIfLeafSimilar)
 
 [Daily Temperature](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/DailyTemperature.swift)
