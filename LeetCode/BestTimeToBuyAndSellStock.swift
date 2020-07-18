@@ -17,6 +17,8 @@ input = [2,4,1]
 Output = 2
 */
 
+//Time complexity: O(n) -> Iterate through the array one time. 
+//Space complexity: O(1) -> Because only two variables are used and they each just hold one number.
 func maxProfit(_ prices: [Int]) -> Int {
   var minPrice = Int.max
   var maxProfit = Int()
