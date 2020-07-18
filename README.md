@@ -8,6 +8,8 @@
 
 [Check If Trees Are Leaf-Similar](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/CheckIfLeafSimilar)
 
+[Contains Duplicate](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/ContainsDuplicate.swift)
+
 [Daily Temperature](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/DailyTemperature.swift)
 
 [Deepest Leaves Sum](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/DeepestLeavesSum.swift)
