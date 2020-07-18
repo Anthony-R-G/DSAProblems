@@ -1,0 +1,73 @@
+/*
+Consider all the leaves of a binary tree.  From left to right order, the values of those leaves form a leaf value sequence.
+
+        3
+      /   \
+     5     1
+    / \   / \
+  6   2  9   8
+    /  \
+   7    4
+
+For example, in the given tree above, the leaf value sequence is (6, 7, 4, 9, 8).
+
+Two binary trees are considered leaf-similar if their leaf value sequence is the same.
+
+Return true if and only if the two given trees with head nodes root1 and root2 are leaf-similar.
+*/
+
+
+//Separate method to dfs + find leaves in binary tree
+func findLeavesInTree(_ root: TreeNode) -> [Int] {
+  var stack: [TreeNode] = []
+  var leaves: [Int] = []
+
+  stack.append(root)
+
+  //dfs
+  while let node = stack.popLast() {
+    //catch if leaf
+    if node.left == nil && node.right == nil {
+      leaves.append(node.val)
+      continue
+    }
+    
+    if let right = node.right {
+      stack.append(right)
+    }
+
+    if let left = node.left {
+      stack.append(left)
+    }
+  }
+  return leaves
+}
+
+
+func areLeafSimilar(_ root1: TreeNode?, _ root2: TreeNode?) -> Bool {
+  guard let root1 = root1, let root2 = root2 else {
+    return false
+  }
+  
+  return findLeavesInTree(root1) == findLeavesInTree(root2)
+}
+
+
+//TreeNode definition
+class TreeNode {
+   var val: Int
+   var left: TreeNode?
+   var right: TreeNode?
+   
+   init(_ val: Int,_ left: TreeNode? = nil ,_ right: TreeNode? = nil) {
+     self.val = val
+     self.left = left
+     self.right = right
+   }
+ }
+
+ extension TreeNode: CustomStringConvertible {
+  public var description: String {
+    return String(describing: val)
+  }
+}
