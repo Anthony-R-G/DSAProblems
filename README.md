@@ -22,6 +22,8 @@
 
 [Majority Element](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/MajorityElement.swift)
 
+[Maximum Subarray](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/MaximumSubarray.swift)
+
 [Merge Sorted Arrays](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/MergeSortedArrays.swift)
 
 [Minimum Add To Balance Parentheses](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/MinimumAddToBalanceParentheses.swift)
