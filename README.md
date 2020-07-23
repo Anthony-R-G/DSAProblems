@@ -38,6 +38,15 @@
 
 [Two Sum](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/TwoSum.swift)
 
+## HackerRank 
+
+[Battery Level](https://github.com/Anthony-R-G/DSA_Practice/blob/master/HackerRank/BatteryLevel.swift)
+
+# Miscellaneous
+
+[Lemonade Stand](https://github.com/Anthony-R-G/DSA_Practice/blob/master/Misc/LemonadeStand.swift)
+
+
 
 
 
