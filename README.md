@@ -42,7 +42,9 @@
 
 [Battery Level](https://github.com/Anthony-R-G/DSA_Practice/blob/master/HackerRank/BatteryLevel.swift)
 
-# Miscellaneous
+## Miscellaneous
+
+[Find Second-Largest Int](https://github.com/Anthony-R-G/DSA_Practice/blob/master/Misc/FindSecondLargestInt.swift)
 
 [Lemonade Stand](https://github.com/Anthony-R-G/DSA_Practice/blob/master/Misc/LemonadeStand.swift)
 
