@@ -32,6 +32,8 @@
 
 [Product of Array Except Self](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/ProductOfArrayExceptSelf.swift)
 
+[Split a String into Balanced Strings](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/SplitAStringIntoBalancedStrings.swift)
+
 [Sum of Even Numbers After Queries](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/SumOfEvenNumbersAfterQueries.swift)
 
 [Sum of Left Leaves in Binary Tree](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/SumOfLeftLeaves.swift)
