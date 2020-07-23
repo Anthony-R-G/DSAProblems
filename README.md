@@ -32,6 +32,8 @@
 
 [Move Zeroes](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/MoveZeroes.swift)
 
+[Roman to Int](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/RomanToInteger.swift)
+
 [Product of Array Except Self](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/ProductOfArrayExceptSelf.swift)
 
 [Split a String into Balanced Strings](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/SplitAStringIntoBalancedStrings.swift)
