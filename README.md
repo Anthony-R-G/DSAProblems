@@ -16,6 +16,8 @@
 
 [Fibonacci Sequence](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/Fibonacci.swift)
 
+[Find All Duplicates In An Array](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/FindAllDuplicatesInAnArray.swift)
+
 [Find Longest Palindrome](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/FindLongestPalindrome.swift)
 
 [Flood Fill](https://github.com/Anthony-R-G/DSA_Practice/blob/master/LeetCode/FloodFill.swift)
@@ -55,8 +57,3 @@
 [Find Second-Largest Int](https://github.com/Anthony-R-G/DSA_Practice/blob/master/Misc/FindSecondLargestInt.swift)
 
 [Lemonade Stand](https://github.com/Anthony-R-G/DSA_Practice/blob/master/Misc/LemonadeStand.swift)
-
-
-
-
-
